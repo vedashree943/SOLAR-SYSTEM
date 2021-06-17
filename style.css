@@ -1,0 +1,35 @@
+li{
+    list-style-type: none;
+}
+#one{
+    width: 80%;
+
+}
+h1{
+    margin: 30px;
+    border: 5px solid lightsalmon;
+    font-size: 35px;
+}
+body{
+    background-color: black;
+    color: lightpink;
+}
+a{
+    text-decoration: none;
+    color: lightpink;
+}
+img{
+    height: 300px;
+    width: 300px;
+    margin: 5px;
+    
+}
+#two{
+    height: 250px;
+    width: 350px;
+
+}
+#sun{
+    visibility: hidden;
+
+}
